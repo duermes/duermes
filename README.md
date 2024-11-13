@@ -1,5 +1,6 @@
 # 👋 Hi, I’m duermes
-Software engineering student and self-taught learner :) <br>I love chickens :hatching_chick: 
+- Software engineering student and retired pianist, you can contact me by discord :)
+- Chickens :hatching_chick:
 
 ### :hatched_chick: My discord server
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/poshitos)
@@ -23,6 +24,6 @@ Software engineering student and self-taught learner :) <br>I love chickens :hat
 
 [![](https://github-readme-stats.vercel.app/api?username=duermes&show_icons=true&theme=gruvbox&hide_border=false&border_color=ebd834&text_color=fcfbe8&bg_color=90,262523,c98908)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duermes&theme=gruvbox&border_radius=0&background=90%2C262523%2CC98908&border=EBD834)](https://git.io/streak-stats) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duermes&theme=gruvbox&hide_border=false&border_color=ebd834&include_all_commits=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duermes&theme=gruvbox&hide_border=false&border_color=ebd834&layout=compact)
 
 
